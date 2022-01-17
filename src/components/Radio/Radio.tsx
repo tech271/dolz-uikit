@@ -22,7 +22,7 @@ const getCheckedScale = ({ scale }: RadioProps) => {
   }
 };
 
-const Radio = styled.input.attrs({ type: "radio" })<RadioProps>`
+const Radio = styled.input.attrs({ type: "radio" }) <RadioProps>`
   appearance: none;
   overflow: hidden;
   cursor: pointer;
@@ -33,12 +33,12 @@ const Radio = styled.input.attrs({ type: "radio" })<RadioProps>`
   vertical-align: middle;
   transition: background-color 0.2s ease-in-out;
   border: 0;
-  border-radius: 50%;
+  border-radius: 12%;
   background-color: ${({ theme }) => theme.colors.input};
   box-shadow: ${({ theme }) => theme.shadows.inset};
 
   &:after {
-    border-radius: 50%;
+    border-radius: 12%;
     content: "";
     height: ${getCheckedScale};
     left: 6px;
