@@ -10,18 +10,18 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://dex.cherokee.finance",
+        href: "#",
       },
       {
         label: "Liquidity",
-        href: "https://dex.cherokee.finance/#/pool",
+        href: "#",
       },
     ],
   },
   {
-    label: "Buy APACHE",
+    label: "Buy DOLZ",
     icon: "TradeIcon",
-    href: "https://app.apache.finance",
+    href: "#",
   },
   {
     label: "Farms",
@@ -64,19 +64,19 @@ export const links = [
     items: [
       {
         label: "Overview",
-        href: "https://cherokee.info",
+        href: "#",
       },
       {
         label: "Tokens",
-        href: "https://cherokee.info/tokens",
+        href: "#",
       },
       {
         label: "Pairs",
-        href: "https://cherokee.info/pairs",
+        href: "#",
       },
       {
         label: "Accounts",
-        href: "https://cherokee.info/accounts",
+        href: "#",
       },
     ],
   },
@@ -100,19 +100,19 @@ export const links = [
     items: [
       {
         label: "Voting",
-        href: "https://voting.cherokee.finance",
+        href: "#",
       },
       {
         label: "Github",
-        href: "https://github.com/pancakeswap",
+        href: "#",
       },
       {
         label: "Docs",
-        href: "https://docs.cherokee.finance",
+        href: "#",
       },
       {
         label: "Blog",
-        href: "https://cherokee.medium.com",
+        href: "#",
       },
     ],
   },
@@ -122,12 +122,12 @@ export const socials = [
   {
     label: "Github",
     icon: "GithubIcon",
-    href: "https://github.com/buffaloswap",
+    href: "#",
   },
   {
     label: "Docs",
     icon: "GitbookIcon",
-    href: "https://buffaloswap.gitbook.io/buffaloswap/",
+    href: "#",
   },
   // {
   //  label: "Medium",
@@ -137,7 +137,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/BuffaloswapDex",
+    href: "#",
   },
   {
     label: "Telegram",
@@ -145,11 +145,11 @@ export const socials = [
     items: [
       {
         label: "Community",
-        href: "https://t.me/buffaloswap",
+        href: "#",
       },
       {
         label: "Announcements",
-        href: "https://t.me/buffaloswapnews",
+        href: "#",
       },
     ],
   },
