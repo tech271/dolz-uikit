@@ -19,7 +19,7 @@ const StyledButtonMenu = styled.div<{ variant: Variants }>`
   a {
     height: 40px;
     padding: 0 24px;
-    border-radius: 32px;
+    border-radius: 8px;
   }
 
   & > button + button,
