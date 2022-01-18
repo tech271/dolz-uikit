@@ -2688,7 +2688,7 @@ var UserBlock = function (_a) {
             onPresentAccountModal();
         } }, accountEllipsis)) : (React.createElement(Button, { size: "sm", onClick: function () {
             onPresentConnectModal();
-        } }, "Connect"))));
+        }, className: "gradientButton" }, "Connect"))));
 };
 
 var StyledAvatar = styled.div(templateObject_1$G || (templateObject_1$G = __makeTemplateObject(["\n  margin-left: 8px;\n  position: relative;\n\n  img {\n    border-radius: 12%;\n  }\n"], ["\n  margin-left: 8px;\n  position: relative;\n\n  img {\n    border-radius: 12%;\n  }\n"])));

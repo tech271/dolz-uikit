@@ -21,6 +21,7 @@ const UserBlock: React.FC<Props> = ({ account, login, logout }) => {
           onClick={() => {
             onPresentAccountModal();
           }}
+
         >
           {accountEllipsis}
         </Button>
@@ -30,6 +31,7 @@ const UserBlock: React.FC<Props> = ({ account, login, logout }) => {
           onClick={() => {
             onPresentConnectModal();
           }}
+          className="gradientButton"
         >
           Connect
         </Button>
