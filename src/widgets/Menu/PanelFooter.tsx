@@ -68,9 +68,9 @@ const openInMetamask = (callback: any) => {
       "type": "ERC20",
       "options": {
         "address": "0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5",
-        "symbol": "BUFF",
+        "symbol": "DOLZ",
         "decimals": 18,
-        "image": "https://www.buffaloswap.org/images/logo_600.png",
+        "image": "https://www.dolz.io/img/logos/dolz_512.png",
       },
     },
     id: Math.round(Math.random() * 100000),
@@ -91,9 +91,9 @@ const openInMetamaskB = (callback: any) => {
       "type": "ERC20",
       "options": {
         "address": "0x9eC132c19f2c35272DE3f81a75D674752D952DA8",
-        "symbol": "REDBUFF",
+        "symbol": "BABYDOLZ",
         "decimals": 18,
-        "image": "https://www.buffaloswap.org/images/redbuff/red_circle_512.png",
+        "image": "https://www.dolz.io/img/logos/dolz_512.png",
       },
     },
     id: Math.round(Math.random() * 100000),

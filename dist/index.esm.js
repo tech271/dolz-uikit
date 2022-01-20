@@ -2429,9 +2429,9 @@ var openInMetamask = function (callback) {
             "type": "ERC20",
             "options": {
                 "address": "0x10a49f1fC8C604eA7f1c49bcc6ab2A8E58e77EA5",
-                "symbol": "BUFF",
+                "symbol": "DOLZ",
                 "decimals": 18,
-                "image": "https://www.buffaloswap.org/images/logo_600.png",
+                "image": "https://www.dolz.io/img/logos/dolz_512.png",
             },
         },
         id: Math.round(Math.random() * 100000),
